@@ -85,7 +85,12 @@ def _run_phase(model, train_loader, val_loader, device, epochs, lr, save_path, m
         else:
             top1, ctop1 = _eval_dual(model, val_loader, device)
             print(f'  {phase_name} Ep{epoch+1:02d}/{epochs} loss={avg_loss:.4f} Fine={top1:.2f}% Coarse={ctop1:.2f}%')
-
+        
+        history.setdefault('fine_acc', []).append(top1)
+        history.setdefault('loss', []).append(avg_loss)
+        if model_type == 'dual':
+            history.setdefault('coarse_acc', []).append(ctop1)
+            
         if top1 > best_acc:
             best_acc = top1
             history['best_fine_acc'] = best_acc
