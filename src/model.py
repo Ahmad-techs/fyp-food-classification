@@ -24,3 +24,15 @@ class CoarseToFineNet(nn.Module):
         fine_out = self.fine_head(x)
         coarse_out = self.coarse_head(x)
         return fine_out, coarse_out
+    
+    def freeze_backbone(self):
+        for param in self.features.parameters():
+            param.requires_grad = False
+
+    def unfreeze_top(self, n=3):
+        for param in self.features[-n:].parameters():
+            param.requires_grad = True
+
+    def unfreeze_all(self):
+        for param in self.features.parameters():
+            param.requires_grad = True
