@@ -5,14 +5,24 @@ from src.model import CoarseToFineNet # We can reuse the architecture
 # Simple training function for baseline
 def train_baseline(model, loader, optimizer, device):
     model.train()
-    criterion = nn.CrossEntropyLoss()
     total_loss = 0
-    for images, fine_labels, _ in loader: # Ignore coarse_labels
-        images, fine_labels = images.to(device), fine_labels.to(device)
+    
+    # Add a print to know it started
+    print("Starting training epoch...")
+    
+    for i, (images, labels) in enumerate(loader):
+        images, labels = images.to(device), labels.to(device)
+        
         optimizer.zero_grad()
-        fine_out, _ = model(images) # Only care about fine_out
-        loss = criterion(fine_out, fine_labels)
+        outputs = model(images)
+        loss = criterion(outputs, labels) # Ensure criterion is defined
         loss.backward()
         optimizer.step()
+        
         total_loss += loss.item()
+        
+        # Print progress every 20 batches
+        if (i + 1) % 20 == 0:
+            print(f"Batch {i+1}/{len(loader)} - Loss: {loss.item():.4f}")
+            
     return total_loss / len(loader)
