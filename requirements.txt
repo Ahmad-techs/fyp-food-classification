@@ -1,0 +1,9 @@
+torch==2.1.0
+torchvision==0.16.0
+datasets==2.14.5
+scikit-learn
+scipy
+matplotlib
+seaborn
+pandas
+pillow
