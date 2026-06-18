@@ -2,7 +2,7 @@ import os
 from PIL import Image
 from torch.utils.data import Dataset
 from torchvision import transforms
-from src.coarse_mapping import get_coarse_label
+from coarse_mapping import get_coarse_label
 
 class Food11Dataset(Dataset):
     def __init__(self, data_dir, split='training', transform=None):
