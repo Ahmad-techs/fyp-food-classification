@@ -1,0 +1,4 @@
+Model,Fine_Top1,Fine_F1,Fine_Kappa,Coarse_Top1,Coarse_Kappa
+EfficientNet-B0 λ=0.35,93.43,93.69,0.9263,93.25,0.9062
+ViT-B/16 λ=0.35,95.7,95.93,0.9518,96.0,0.9442
+CoAtNet-0 λ=0.35,96.06,96.25,0.9558,96.56,0.9522
