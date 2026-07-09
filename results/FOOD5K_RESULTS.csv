@@ -1,0 +1,4 @@
+condition,top1,f1,kappa
+EfficientNet-B0 Food-5k,98.7,98.7,0.974
+ViT-B/16 Food-5k,99.0,99.0,0.98
+CoAtNet-0 Food-5k,98.9,98.9,0.978
