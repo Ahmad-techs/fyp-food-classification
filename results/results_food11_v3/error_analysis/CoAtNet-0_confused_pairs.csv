@@ -1,0 +1,54 @@
+true_class,pred_class,count
+Dessert,Seafood,10
+Dessert,Meat,8
+Dessert,Egg,7
+Dairy product,Dessert,7
+Dessert,Soup,6
+Dessert,Bread,6
+Fried food,Meat,6
+Meat,Dessert,6
+Bread,Dessert,5
+Fried food,Dessert,5
+Meat,Seafood,5
+Dairy product,Seafood,5
+Bread,Fried food,5
+Soup,Seafood,5
+Egg,Bread,4
+Soup,Dessert,4
+Egg,Dessert,4
+Dessert,Dairy product,4
+Fried food,Bread,3
+Egg,Meat,3
+Bread,Egg,3
+Vegetable-Fruit,Seafood,3
+Seafood,Meat,3
+Meat,Fried food,3
+Egg,Soup,2
+Dairy product,Bread,2
+Bread,Seafood,2
+Bread,Meat,2
+Egg,Fried food,2
+Meat,Bread,2
+Fried food,Seafood,2
+Egg,Seafood,2
+Vegetable-Fruit,Dessert,2
+Egg,Dairy product,1
+Dessert,Vegetable-Fruit,1
+Dessert,Fried food,1
+Egg,Rice,1
+Noodles-Pasta,Dessert,1
+Meat,Egg,1
+Fried food,Soup,1
+Fried food,Egg,1
+Fried food,Dairy product,1
+Noodles-Pasta,Soup,1
+Rice,Meat,1
+Rice,Dessert,1
+Soup,Bread,1
+Seafood,Dessert,1
+Seafood,Dairy product,1
+Seafood,Bread,1
+Soup,Vegetable-Fruit,1
+Soup,Meat,1
+Vegetable-Fruit,Dairy product,1
+Vegetable-Fruit,Meat,1

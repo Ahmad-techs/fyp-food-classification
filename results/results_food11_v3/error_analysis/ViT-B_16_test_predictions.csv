@@ -1,0 +1,3348 @@
+true_label,pred_label,true_class,pred_class,confidence
+0,0,Bread,Bread,0.9838
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,0.9998
+0,0,Bread,Bread,0.9998
+0,0,Bread,Bread,0.9999
+0,0,Bread,Bread,0.9994
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,1.0
+0,2,Bread,Dessert,0.7805
+0,0,Bread,Bread,1.0
+0,2,Bread,Dessert,0.951
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,0.9997
+0,3,Bread,Egg,0.997
+0,0,Bread,Bread,0.9999
+0,0,Bread,Bread,0.9992
+0,0,Bread,Bread,0.9993
+0,0,Bread,Bread,0.9997
+0,0,Bread,Bread,0.9991
+0,0,Bread,Bread,0.9997
+0,0,Bread,Bread,0.9999
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,0.8539
+0,0,Bread,Bread,0.9024
+0,0,Bread,Bread,0.9941
+0,0,Bread,Bread,0.9997
+0,0,Bread,Bread,0.9998
+0,0,Bread,Bread,0.9655
+0,0,Bread,Bread,0.9983
+0,0,Bread,Bread,0.9856
+0,0,Bread,Bread,0.9997
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,0.9998
+0,0,Bread,Bread,0.9998
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,0.9846
+0,0,Bread,Bread,0.9687
+0,5,Bread,Meat,0.9209
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,0.4915
+0,0,Bread,Bread,0.9928
+0,0,Bread,Bread,0.9757
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,0.6676
+0,0,Bread,Bread,0.9956
+0,0,Bread,Bread,0.9981
+0,0,Bread,Bread,0.9722
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,0.9999
+0,0,Bread,Bread,0.9274
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,0.9988
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,0.9999
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,0.998
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,0.9996
+0,0,Bread,Bread,0.9989
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,0.9999
+0,0,Bread,Bread,0.9973
+0,0,Bread,Bread,0.7417
+0,0,Bread,Bread,0.9991
+0,0,Bread,Bread,0.9999
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,0.9993
+0,2,Bread,Dessert,0.9987
+0,0,Bread,Bread,0.6335
+0,0,Bread,Bread,0.9999
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,0.8186
+0,0,Bread,Bread,0.9994
+0,0,Bread,Bread,0.9999
+0,0,Bread,Bread,0.9963
+0,0,Bread,Bread,0.9489
+0,0,Bread,Bread,0.9975
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,0.9999
+0,0,Bread,Bread,0.9049
+0,0,Bread,Bread,0.8721
+0,0,Bread,Bread,0.9869
+0,0,Bread,Bread,0.9993
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,0.9997
+0,0,Bread,Bread,0.9995
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,0.9146
+0,0,Bread,Bread,1.0
+0,2,Bread,Dessert,0.4116
+0,4,Bread,Fried food,0.6888
+0,0,Bread,Bread,0.9943
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,0.9365
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,0.6832
+0,0,Bread,Bread,0.9997
+0,8,Bread,Seafood,0.9134
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,0.9996
+0,2,Bread,Dessert,0.8922
+0,0,Bread,Bread,0.9984
+0,0,Bread,Bread,0.9995
+0,0,Bread,Bread,0.6339
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,0.9999
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,0.9998
+0,0,Bread,Bread,0.9999
+0,4,Bread,Fried food,0.599
+0,0,Bread,Bread,0.9999
+0,0,Bread,Bread,0.9992
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,0.9996
+0,0,Bread,Bread,0.9999
+0,0,Bread,Bread,0.9938
+0,0,Bread,Bread,0.9877
+0,0,Bread,Bread,0.9997
+0,0,Bread,Bread,0.8901
+0,0,Bread,Bread,0.9987
+0,0,Bread,Bread,0.952
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,0.9999
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,0.9851
+0,0,Bread,Bread,0.9986
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,1.0
+0,2,Bread,Dessert,0.9138
+0,0,Bread,Bread,0.9985
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,0.6471
+0,0,Bread,Bread,0.9998
+0,0,Bread,Bread,0.9938
+0,0,Bread,Bread,0.9991
+0,0,Bread,Bread,0.9782
+0,0,Bread,Bread,0.9999
+0,0,Bread,Bread,0.9999
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,0.9999
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,1.0
+0,4,Bread,Fried food,0.9946
+0,0,Bread,Bread,0.9993
+0,0,Bread,Bread,0.9849
+0,0,Bread,Bread,0.9999
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,0.9998
+0,8,Bread,Seafood,0.4145
+0,0,Bread,Bread,0.9997
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,0.9999
+0,0,Bread,Bread,0.7653
+0,0,Bread,Bread,0.9998
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,0.9989
+0,0,Bread,Bread,0.9999
+0,0,Bread,Bread,0.9998
+0,0,Bread,Bread,0.9994
+0,5,Bread,Meat,0.6146
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,0.7265
+0,0,Bread,Bread,0.9997
+0,0,Bread,Bread,0.9875
+0,0,Bread,Bread,0.9999
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,0.9993
+0,0,Bread,Bread,0.9999
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,0.9997
+0,0,Bread,Bread,0.9983
+0,0,Bread,Bread,0.9993
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,0.9998
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,0.9969
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,0.7924
+0,0,Bread,Bread,0.999
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,0.9964
+0,0,Bread,Bread,0.9999
+0,0,Bread,Bread,0.4001
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,0.9811
+0,0,Bread,Bread,0.989
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,0.9997
+0,0,Bread,Bread,0.9884
+0,0,Bread,Bread,0.9998
+0,3,Bread,Egg,0.9517
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,0.9847
+0,0,Bread,Bread,0.9998
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,0.9977
+0,0,Bread,Bread,0.9978
+0,0,Bread,Bread,0.9998
+0,4,Bread,Fried food,0.9952
+0,0,Bread,Bread,1.0
+0,4,Bread,Fried food,0.6449
+0,0,Bread,Bread,0.9999
+0,0,Bread,Bread,0.9853
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,0.9992
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,0.999
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,0.9993
+0,4,Bread,Fried food,0.4392
+0,0,Bread,Bread,0.9963
+0,0,Bread,Bread,0.5769
+0,0,Bread,Bread,0.9872
+0,0,Bread,Bread,0.9997
+0,0,Bread,Bread,0.9997
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,0.9948
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,0.9994
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,0.9992
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,0.9999
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,0.9999
+0,0,Bread,Bread,0.9787
+0,0,Bread,Bread,0.9952
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,0.9992
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,0.9998
+0,0,Bread,Bread,0.9999
+0,0,Bread,Bread,0.9162
+0,0,Bread,Bread,0.9997
+0,0,Bread,Bread,0.9247
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,0.9997
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,0.9968
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,0.9999
+0,0,Bread,Bread,0.9256
+0,0,Bread,Bread,0.7539
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,0.9999
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,0.9656
+0,0,Bread,Bread,0.9994
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,0.9995
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,0.997
+0,0,Bread,Bread,0.9472
+0,0,Bread,Bread,0.9989
+0,0,Bread,Bread,0.9999
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,0.9998
+0,0,Bread,Bread,0.9971
+0,0,Bread,Bread,1.0
+0,2,Bread,Dessert,0.9116
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,0.9018
+0,0,Bread,Bread,0.9995
+0,0,Bread,Bread,0.9968
+0,0,Bread,Bread,0.9995
+0,0,Bread,Bread,0.9961
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,0.9774
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,0.9986
+0,0,Bread,Bread,0.9998
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,0.9997
+0,0,Bread,Bread,0.9996
+0,0,Bread,Bread,0.9985
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,0.9983
+0,0,Bread,Bread,0.9993
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,1.0
+0,3,Bread,Egg,0.9224
+0,0,Bread,Bread,0.9999
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,0.9997
+0,9,Bread,Soup,0.5143
+0,0,Bread,Bread,0.9986
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,0.9999
+0,0,Bread,Bread,0.9999
+0,0,Bread,Bread,0.9999
+0,0,Bread,Bread,0.9989
+0,0,Bread,Bread,0.9623
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,0.9999
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,0.9999
+0,0,Bread,Bread,0.9995
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,0.9998
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,0.9994
+0,0,Bread,Bread,0.9999
+0,0,Bread,Bread,0.9991
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,0.943
+0,0,Bread,Bread,0.9975
+0,0,Bread,Bread,0.9993
+0,0,Bread,Bread,0.9631
+0,0,Bread,Bread,0.9965
+0,0,Bread,Bread,0.9844
+0,0,Bread,Bread,0.9808
+0,0,Bread,Bread,0.9998
+0,0,Bread,Bread,0.9999
+0,0,Bread,Bread,0.9998
+0,5,Bread,Meat,0.4934
+0,0,Bread,Bread,0.9998
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,0.4683
+0,0,Bread,Bread,0.9999
+0,0,Bread,Bread,0.9975
+0,0,Bread,Bread,0.9994
+0,0,Bread,Bread,0.9999
+0,0,Bread,Bread,0.9999
+0,9,Bread,Soup,0.6427
+0,0,Bread,Bread,1.0
+0,0,Bread,Bread,0.9999
+1,1,Dairy product,Dairy product,0.9999
+1,1,Dairy product,Dairy product,0.9983
+1,1,Dairy product,Dairy product,1.0
+1,2,Dairy product,Dessert,0.6502
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,0.9999
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,0.998
+1,1,Dairy product,Dairy product,1.0
+1,8,Dairy product,Seafood,0.9398
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,0.7374
+1,1,Dairy product,Dairy product,1.0
+1,8,Dairy product,Seafood,0.8457
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,0.9896
+1,1,Dairy product,Dairy product,0.9998
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,0.8416
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,1.0
+1,2,Dairy product,Dessert,0.8264
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,0.8496
+1,1,Dairy product,Dairy product,0.9983
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,0.9998
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,0.9234
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,0.9999
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,0.9875
+1,1,Dairy product,Dairy product,0.5803
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,1.0
+1,2,Dairy product,Dessert,0.9095
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,0.9981
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,0.9468
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,0.9999
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,0.9998
+1,1,Dairy product,Dairy product,0.9965
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,0.965
+1,1,Dairy product,Dairy product,0.995
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,0.999
+1,1,Dairy product,Dairy product,0.9978
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,1.0
+1,2,Dairy product,Dessert,1.0
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,0.9867
+1,2,Dairy product,Dessert,0.9937
+1,1,Dairy product,Dairy product,0.9999
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,0.9999
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,1.0
+1,2,Dairy product,Dessert,0.6651
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,0.9074
+1,1,Dairy product,Dairy product,0.9999
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,1.0
+1,5,Dairy product,Meat,0.9998
+1,1,Dairy product,Dairy product,0.9922
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,1.0
+1,2,Dairy product,Dessert,0.9929
+1,1,Dairy product,Dairy product,0.9735
+1,2,Dairy product,Dessert,0.9991
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,0.9847
+1,1,Dairy product,Dairy product,0.9999
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,0.9894
+1,1,Dairy product,Dairy product,0.9529
+1,1,Dairy product,Dairy product,0.8201
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,0.9947
+1,1,Dairy product,Dairy product,0.9998
+1,0,Dairy product,Bread,0.7009
+1,1,Dairy product,Dairy product,0.9993
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,0.9935
+1,1,Dairy product,Dairy product,0.5857
+1,1,Dairy product,Dairy product,0.9998
+1,1,Dairy product,Dairy product,0.9994
+1,1,Dairy product,Dairy product,1.0
+1,1,Dairy product,Dairy product,1.0
+2,2,Dessert,Dessert,0.9997
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9998
+2,2,Dessert,Dessert,0.9999
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9984
+2,2,Dessert,Dessert,0.9999
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9998
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9746
+2,2,Dessert,Dessert,0.9997
+2,2,Dessert,Dessert,0.9978
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9751
+2,2,Dessert,Dessert,0.9776
+2,2,Dessert,Dessert,1.0
+2,0,Dessert,Bread,0.3918
+2,2,Dessert,Dessert,0.9998
+2,2,Dessert,Dessert,1.0
+2,0,Dessert,Bread,1.0
+2,2,Dessert,Dessert,0.9617
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.8788
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9995
+2,2,Dessert,Dessert,0.9475
+2,2,Dessert,Dessert,0.9999
+2,2,Dessert,Dessert,0.9979
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9999
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9986
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9997
+2,2,Dessert,Dessert,0.9999
+2,2,Dessert,Dessert,0.97
+2,2,Dessert,Dessert,0.999
+2,2,Dessert,Dessert,0.9989
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9999
+2,2,Dessert,Dessert,0.9999
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9999
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9995
+2,2,Dessert,Dessert,1.0
+2,5,Dessert,Meat,0.9968
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9999
+2,2,Dessert,Dessert,0.9467
+2,2,Dessert,Dessert,0.9999
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9995
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9999
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9447
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9997
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9981
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9989
+2,9,Dessert,Soup,0.8274
+2,2,Dessert,Dessert,0.9995
+2,2,Dessert,Dessert,0.9999
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.8016
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9999
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9999
+2,2,Dessert,Dessert,0.9999
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9987
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9786
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9995
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9996
+2,2,Dessert,Dessert,0.9988
+2,8,Dessert,Seafood,0.4248
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9999
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9826
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9798
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.994
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9997
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9999
+2,8,Dessert,Seafood,0.99
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9991
+2,3,Dessert,Egg,0.5271
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9999
+2,2,Dessert,Dessert,0.9994
+2,2,Dessert,Dessert,0.5421
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9973
+2,2,Dessert,Dessert,0.9532
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9999
+2,9,Dessert,Soup,0.5208
+2,9,Dessert,Soup,0.9987
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9989
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9997
+2,3,Dessert,Egg,0.8419
+2,2,Dessert,Dessert,0.999
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9995
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9998
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9562
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9999
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9999
+2,2,Dessert,Dessert,0.9177
+2,2,Dessert,Dessert,0.9986
+2,2,Dessert,Dessert,0.9999
+2,2,Dessert,Dessert,0.9998
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9856
+2,2,Dessert,Dessert,0.9999
+2,2,Dessert,Dessert,0.9952
+2,4,Dessert,Fried food,0.6679
+2,2,Dessert,Dessert,0.9993
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9999
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9994
+2,2,Dessert,Dessert,0.9983
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9988
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.7585
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9991
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.952
+2,2,Dessert,Dessert,0.9994
+2,2,Dessert,Dessert,0.7287
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9998
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9978
+2,2,Dessert,Dessert,0.9999
+2,2,Dessert,Dessert,0.9999
+2,2,Dessert,Dessert,0.8376
+2,2,Dessert,Dessert,0.9972
+2,2,Dessert,Dessert,0.9387
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.8348
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9997
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,4,Dessert,Fried food,0.5471
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9999
+2,2,Dessert,Dessert,0.9686
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.6731
+2,2,Dessert,Dessert,0.9972
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9942
+2,2,Dessert,Dessert,0.9994
+2,2,Dessert,Dessert,0.9995
+2,2,Dessert,Dessert,1.0
+2,9,Dessert,Soup,0.9315
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9999
+2,2,Dessert,Dessert,0.9898
+2,2,Dessert,Dessert,0.5921
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,8,Dessert,Seafood,0.791
+2,2,Dessert,Dessert,0.9838
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9995
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9299
+2,2,Dessert,Dessert,0.9979
+2,2,Dessert,Dessert,0.9993
+2,2,Dessert,Dessert,0.3626
+2,2,Dessert,Dessert,0.9914
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9995
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9486
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,8,Dessert,Seafood,0.7699
+2,2,Dessert,Dessert,0.5901
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9781
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9999
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9833
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9999
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.5988
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9992
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9999
+2,2,Dessert,Dessert,1.0
+2,9,Dessert,Soup,0.7012
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9999
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,1,Dessert,Dairy product,0.532
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9541
+2,2,Dessert,Dessert,0.9998
+2,5,Dessert,Meat,0.6612
+2,2,Dessert,Dessert,0.9993
+2,2,Dessert,Dessert,0.994
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9965
+2,2,Dessert,Dessert,1.0
+2,1,Dessert,Dairy product,1.0
+2,2,Dessert,Dessert,0.9999
+2,2,Dessert,Dessert,0.9421
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9902
+2,2,Dessert,Dessert,0.9999
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9995
+2,2,Dessert,Dessert,0.7314
+2,2,Dessert,Dessert,0.9999
+2,2,Dessert,Dessert,0.9978
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9567
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.8013
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9996
+2,0,Dessert,Bread,0.4529
+2,0,Dessert,Bread,0.9714
+2,2,Dessert,Dessert,0.9999
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9969
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9985
+2,2,Dessert,Dessert,0.9996
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.987
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9995
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9993
+2,5,Dessert,Meat,0.5316
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.8202
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9432
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9997
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9999
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9999
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9999
+2,2,Dessert,Dessert,0.9973
+2,2,Dessert,Dessert,0.8632
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.6178
+2,2,Dessert,Dessert,0.9974
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9399
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9784
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9939
+2,2,Dessert,Dessert,1.0
+2,0,Dessert,Bread,0.8528
+2,2,Dessert,Dessert,0.9945
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9999
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9644
+2,2,Dessert,Dessert,0.9996
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.998
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9972
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9829
+2,2,Dessert,Dessert,0.9908
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9989
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9986
+2,2,Dessert,Dessert,0.9889
+2,2,Dessert,Dessert,0.9999
+2,9,Dessert,Soup,0.6356
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9385
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9945
+2,2,Dessert,Dessert,0.9996
+2,2,Dessert,Dessert,0.9994
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9064
+2,2,Dessert,Dessert,0.9992
+2,2,Dessert,Dessert,0.9795
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9958
+2,2,Dessert,Dessert,0.9993
+2,2,Dessert,Dessert,0.9975
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,5,Dessert,Meat,0.8668
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9838
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9998
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9934
+2,2,Dessert,Dessert,0.9995
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,1,Dessert,Dairy product,0.9235
+2,2,Dessert,Dessert,0.9998
+2,2,Dessert,Dessert,0.9997
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9959
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9987
+2,4,Dessert,Fried food,0.9983
+2,2,Dessert,Dessert,0.9876
+2,9,Dessert,Soup,0.9887
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,0.9998
+2,2,Dessert,Dessert,0.9999
+2,2,Dessert,Dessert,0.9793
+2,2,Dessert,Dessert,1.0
+2,2,Dessert,Dessert,1.0
+3,3,Egg,Egg,0.9987
+3,9,Egg,Soup,0.3725
+3,3,Egg,Egg,0.9988
+3,3,Egg,Egg,0.9984
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,0.9844
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,0.9999
+3,3,Egg,Egg,0.8
+3,3,Egg,Egg,0.9939
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,0.6878
+3,3,Egg,Egg,0.9785
+3,3,Egg,Egg,0.9987
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,0.9969
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,0.5057
+3,3,Egg,Egg,0.992
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,1.0
+3,8,Egg,Seafood,0.5362
+3,3,Egg,Egg,0.9998
+3,0,Egg,Bread,0.8039
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,0.9998
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,0.9968
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,0.9991
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,0.9959
+3,3,Egg,Egg,0.9985
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,0.998
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,0.9961
+3,3,Egg,Egg,0.9999
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,0.9997
+3,5,Egg,Meat,0.9067
+3,0,Egg,Bread,0.9457
+3,3,Egg,Egg,0.9987
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,1.0
+3,0,Egg,Bread,0.8022
+3,3,Egg,Egg,0.9999
+3,3,Egg,Egg,1.0
+3,0,Egg,Bread,0.974
+3,3,Egg,Egg,0.993
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,0.9997
+3,3,Egg,Egg,0.9999
+3,3,Egg,Egg,0.9357
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,0.9996
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,0.9989
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,0.9976
+3,3,Egg,Egg,0.9963
+3,2,Egg,Dessert,0.7176
+3,3,Egg,Egg,0.999
+3,9,Egg,Soup,0.4594
+3,3,Egg,Egg,0.8455
+3,3,Egg,Egg,0.9998
+3,3,Egg,Egg,0.8423
+3,3,Egg,Egg,0.9998
+3,3,Egg,Egg,1.0
+3,2,Egg,Dessert,0.7933
+3,3,Egg,Egg,0.5
+3,3,Egg,Egg,0.9999
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,0.9998
+3,3,Egg,Egg,0.9999
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,0.9763
+3,3,Egg,Egg,0.861
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,0.9999
+3,3,Egg,Egg,0.9998
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,0.9961
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,0.991
+3,3,Egg,Egg,0.9999
+3,3,Egg,Egg,0.9994
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,0.9162
+3,0,Egg,Bread,0.9999
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,1.0
+3,0,Egg,Bread,0.9981
+3,9,Egg,Soup,0.9196
+3,5,Egg,Meat,0.9682
+3,3,Egg,Egg,0.9743
+3,8,Egg,Seafood,0.9926
+3,3,Egg,Egg,0.9999
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,1.0
+3,0,Egg,Bread,0.9636
+3,3,Egg,Egg,0.9984
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,0.9668
+3,3,Egg,Egg,0.9998
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,0.8881
+3,3,Egg,Egg,0.9978
+3,3,Egg,Egg,0.9997
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,0.9999
+3,3,Egg,Egg,0.9998
+3,0,Egg,Bread,0.9199
+3,3,Egg,Egg,0.717
+3,0,Egg,Bread,0.9903
+3,3,Egg,Egg,0.9999
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,0.9999
+3,3,Egg,Egg,0.9999
+3,3,Egg,Egg,0.4703
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,0.9987
+3,2,Egg,Dessert,0.7708
+3,3,Egg,Egg,0.9999
+3,3,Egg,Egg,0.9812
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,0.9998
+3,3,Egg,Egg,0.4947
+3,3,Egg,Egg,0.9998
+3,3,Egg,Egg,0.9998
+3,3,Egg,Egg,0.9958
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,0.9998
+3,5,Egg,Meat,0.6146
+3,3,Egg,Egg,0.9447
+3,3,Egg,Egg,0.9998
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,0.9999
+3,0,Egg,Bread,0.8926
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,0.9966
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,0.9061
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,0.9993
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,0.9878
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,0.9999
+3,3,Egg,Egg,0.9882
+3,3,Egg,Egg,0.8601
+3,3,Egg,Egg,0.9862
+3,3,Egg,Egg,0.7148
+3,3,Egg,Egg,1.0
+3,2,Egg,Dessert,0.4999
+3,3,Egg,Egg,0.9987
+3,3,Egg,Egg,0.9999
+3,3,Egg,Egg,0.9999
+3,3,Egg,Egg,0.9588
+3,3,Egg,Egg,0.6964
+3,3,Egg,Egg,0.9925
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,0.9601
+3,3,Egg,Egg,1.0
+3,0,Egg,Bread,0.9157
+3,3,Egg,Egg,1.0
+3,7,Egg,Rice,0.4979
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,1.0
+3,2,Egg,Dessert,0.9846
+3,3,Egg,Egg,0.9025
+3,1,Egg,Dairy product,0.8443
+3,3,Egg,Egg,0.9821
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,0.9997
+3,3,Egg,Egg,0.9927
+3,3,Egg,Egg,0.9996
+3,3,Egg,Egg,0.9986
+3,3,Egg,Egg,0.9203
+3,3,Egg,Egg,0.9999
+3,3,Egg,Egg,0.9998
+3,1,Egg,Dairy product,0.9621
+3,2,Egg,Dessert,0.8337
+3,3,Egg,Egg,0.9995
+3,3,Egg,Egg,0.9807
+3,3,Egg,Egg,0.9491
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,0.9997
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,0.9998
+3,3,Egg,Egg,0.9998
+3,3,Egg,Egg,0.9928
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,0.9999
+3,3,Egg,Egg,0.9974
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,0.9739
+3,3,Egg,Egg,0.674
+3,3,Egg,Egg,0.9999
+3,0,Egg,Bread,0.936
+3,3,Egg,Egg,0.9402
+3,3,Egg,Egg,0.9936
+3,0,Egg,Bread,0.8734
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,0.7554
+3,3,Egg,Egg,0.4522
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,0.9995
+3,3,Egg,Egg,0.9982
+3,3,Egg,Egg,1.0
+3,8,Egg,Seafood,0.5525
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,0.9275
+3,3,Egg,Egg,0.8376
+3,3,Egg,Egg,0.9997
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,0.9301
+3,3,Egg,Egg,0.9736
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,0.9991
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,0.9998
+3,0,Egg,Bread,0.9996
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,0.9794
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,0.547
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,0.9955
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,0.9994
+3,3,Egg,Egg,0.9993
+3,3,Egg,Egg,0.9815
+3,3,Egg,Egg,0.9999
+3,3,Egg,Egg,1.0
+3,0,Egg,Bread,0.5864
+3,3,Egg,Egg,1.0
+3,2,Egg,Dessert,0.5827
+3,0,Egg,Bread,0.9999
+3,3,Egg,Egg,0.9999
+3,3,Egg,Egg,0.9958
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,0.9792
+3,3,Egg,Egg,0.7379
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,0.9995
+3,3,Egg,Egg,0.8205
+3,3,Egg,Egg,0.9824
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,0.9992
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,0.9983
+3,3,Egg,Egg,0.9989
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,0.9217
+3,3,Egg,Egg,0.9901
+3,3,Egg,Egg,0.9914
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,0.5957
+3,3,Egg,Egg,0.9831
+3,3,Egg,Egg,0.9999
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,0.9942
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,0.996
+3,3,Egg,Egg,0.9997
+3,3,Egg,Egg,0.9999
+3,3,Egg,Egg,0.9999
+3,3,Egg,Egg,1.0
+3,0,Egg,Bread,0.9876
+3,2,Egg,Dessert,0.989
+3,3,Egg,Egg,0.9995
+3,0,Egg,Bread,0.3983
+3,3,Egg,Egg,0.9999
+3,3,Egg,Egg,0.9999
+3,3,Egg,Egg,0.9999
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,0.9999
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,0.955
+3,3,Egg,Egg,0.9991
+3,3,Egg,Egg,0.9995
+3,0,Egg,Bread,0.6606
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,0.9985
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,0.9998
+3,0,Egg,Bread,0.9994
+3,3,Egg,Egg,0.7631
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,0.995
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,0.9996
+3,3,Egg,Egg,0.5134
+3,3,Egg,Egg,0.9161
+3,3,Egg,Egg,0.9975
+3,3,Egg,Egg,1.0
+3,3,Egg,Egg,1.0
+4,5,Fried food,Meat,0.9984
+4,4,Fried food,Fried food,0.8717
+4,4,Fried food,Fried food,0.9977
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,0.9962
+4,4,Fried food,Fried food,0.9999
+4,4,Fried food,Fried food,0.9947
+4,4,Fried food,Fried food,0.5139
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,0.9876
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,0.9997
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,0.9998
+4,4,Fried food,Fried food,0.9998
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,0.9999
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,0.9994
+4,4,Fried food,Fried food,0.9989
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,0.999
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,0.9957
+4,4,Fried food,Fried food,0.9998
+4,4,Fried food,Fried food,0.9997
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,0.9754
+4,4,Fried food,Fried food,0.9992
+4,4,Fried food,Fried food,0.9999
+4,4,Fried food,Fried food,0.7183
+4,4,Fried food,Fried food,0.9986
+4,4,Fried food,Fried food,0.7221
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,0.9998
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,0.9999
+4,4,Fried food,Fried food,0.9999
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,0.9999
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,0.9997
+4,4,Fried food,Fried food,0.9965
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,0.9985
+4,4,Fried food,Fried food,0.9908
+4,4,Fried food,Fried food,0.9356
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,0.9964
+4,4,Fried food,Fried food,0.9978
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,0.9989
+4,4,Fried food,Fried food,0.9987
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,0.9992
+4,4,Fried food,Fried food,0.9837
+4,4,Fried food,Fried food,0.9713
+4,4,Fried food,Fried food,0.9917
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,0.9976
+4,2,Fried food,Dessert,0.9367
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,0.9988
+4,4,Fried food,Fried food,0.9994
+4,4,Fried food,Fried food,0.9997
+4,4,Fried food,Fried food,0.9931
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,0.9999
+4,4,Fried food,Fried food,0.99
+4,4,Fried food,Fried food,0.6856
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,0.9969
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,0.9981
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,0.9999
+4,4,Fried food,Fried food,0.9995
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,0.9974
+4,4,Fried food,Fried food,0.9932
+4,4,Fried food,Fried food,0.9999
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,0.9995
+4,4,Fried food,Fried food,1.0
+4,3,Fried food,Egg,0.3705
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,0.9994
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,0.9994
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,0.9909
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,0.9777
+4,4,Fried food,Fried food,0.9972
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,0.9718
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,0.9978
+4,4,Fried food,Fried food,0.7818
+4,4,Fried food,Fried food,0.9999
+4,4,Fried food,Fried food,0.9998
+4,4,Fried food,Fried food,0.9993
+4,4,Fried food,Fried food,0.9999
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,0.9997
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,0.9892
+4,4,Fried food,Fried food,0.9848
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,0.9997
+4,4,Fried food,Fried food,0.9848
+4,5,Fried food,Meat,0.5259
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,0.9992
+4,4,Fried food,Fried food,0.9996
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,0.9999
+4,4,Fried food,Fried food,0.9945
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,0.8101
+4,4,Fried food,Fried food,1.0
+4,5,Fried food,Meat,0.5983
+4,4,Fried food,Fried food,0.9951
+4,4,Fried food,Fried food,0.9999
+4,4,Fried food,Fried food,0.9829
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,0.9996
+4,4,Fried food,Fried food,0.9998
+4,4,Fried food,Fried food,0.9823
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,0.9997
+4,4,Fried food,Fried food,0.9985
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,0.5107
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,0.9996
+4,4,Fried food,Fried food,0.9999
+4,4,Fried food,Fried food,0.9967
+4,4,Fried food,Fried food,0.9999
+4,4,Fried food,Fried food,0.9999
+4,4,Fried food,Fried food,0.6694
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,0.6092
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,0.9915
+4,4,Fried food,Fried food,0.9996
+4,4,Fried food,Fried food,0.9994
+4,4,Fried food,Fried food,0.9996
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,0.9979
+4,4,Fried food,Fried food,0.9998
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,0.9985
+4,4,Fried food,Fried food,0.9972
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,0.9681
+4,4,Fried food,Fried food,1.0
+4,8,Fried food,Seafood,0.8626
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,0.9937
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,0.9199
+4,4,Fried food,Fried food,0.9999
+4,5,Fried food,Meat,0.9849
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,0.9991
+4,2,Fried food,Dessert,0.6056
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,0.9924
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,0.9999
+4,4,Fried food,Fried food,0.9999
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,0.9977
+4,5,Fried food,Meat,0.2949
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,0.9945
+4,4,Fried food,Fried food,0.9995
+4,4,Fried food,Fried food,0.9853
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,0.8815
+4,4,Fried food,Fried food,0.9995
+4,4,Fried food,Fried food,0.9979
+4,2,Fried food,Dessert,0.9653
+4,4,Fried food,Fried food,0.9994
+4,4,Fried food,Fried food,0.9867
+4,4,Fried food,Fried food,0.9989
+4,0,Fried food,Bread,0.8209
+4,4,Fried food,Fried food,0.9997
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,0.8978
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,0.9975
+4,4,Fried food,Fried food,0.999
+4,4,Fried food,Fried food,0.9992
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,0.9998
+4,4,Fried food,Fried food,0.9999
+4,1,Fried food,Dairy product,0.6877
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,0.91
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,0.9343
+4,4,Fried food,Fried food,1.0
+4,8,Fried food,Seafood,0.9517
+4,4,Fried food,Fried food,0.993
+4,4,Fried food,Fried food,0.9777
+4,2,Fried food,Dessert,0.9763
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,0.9937
+4,4,Fried food,Fried food,0.864
+4,0,Fried food,Bread,0.9985
+4,4,Fried food,Fried food,0.996
+4,4,Fried food,Fried food,0.9996
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,1.0
+4,2,Fried food,Dessert,0.9913
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,0.9999
+4,4,Fried food,Fried food,0.9999
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,0.9997
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,0.9997
+4,4,Fried food,Fried food,1.0
+4,4,Fried food,Fried food,0.6359
+4,4,Fried food,Fried food,0.9999
+4,4,Fried food,Fried food,0.9991
+4,0,Fried food,Bread,0.555
+4,4,Fried food,Fried food,0.736
+4,4,Fried food,Fried food,0.9987
+4,4,Fried food,Fried food,0.9942
+4,4,Fried food,Fried food,0.9999
+4,5,Fried food,Meat,0.8397
+4,4,Fried food,Fried food,0.9809
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9995
+5,5,Meat,Meat,0.9967
+5,5,Meat,Meat,0.9999
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.8048
+5,5,Meat,Meat,0.9996
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9999
+5,5,Meat,Meat,0.9997
+5,5,Meat,Meat,0.9999
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9997
+5,5,Meat,Meat,0.9655
+5,5,Meat,Meat,0.9995
+5,5,Meat,Meat,1.0
+5,2,Meat,Dessert,0.9856
+5,5,Meat,Meat,0.9999
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,3,Meat,Egg,0.6495
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9449
+5,5,Meat,Meat,0.9986
+5,5,Meat,Meat,0.9999
+5,5,Meat,Meat,0.9999
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.998
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.6452
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9999
+5,5,Meat,Meat,0.9994
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9991
+5,5,Meat,Meat,0.9899
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,4,Meat,Fried food,0.9785
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.971
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9998
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9997
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9981
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9999
+5,5,Meat,Meat,0.9999
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9971
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.7691
+5,5,Meat,Meat,0.9998
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9999
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9992
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9994
+5,5,Meat,Meat,0.9995
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,2,Meat,Dessert,0.9616
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9997
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9999
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9949
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9993
+5,5,Meat,Meat,0.9999
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,4,Meat,Fried food,0.8619
+5,8,Meat,Seafood,0.5615
+5,8,Meat,Seafood,0.8329
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,8,Meat,Seafood,0.7448
+5,5,Meat,Meat,0.9994
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.99
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9987
+5,5,Meat,Meat,0.9641
+5,5,Meat,Meat,0.9999
+5,5,Meat,Meat,0.9999
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9829
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9998
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.8231
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9998
+5,5,Meat,Meat,0.9999
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9953
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9998
+5,5,Meat,Meat,0.9976
+5,5,Meat,Meat,0.9971
+5,5,Meat,Meat,0.9999
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9995
+5,5,Meat,Meat,0.9998
+5,5,Meat,Meat,0.7907
+5,5,Meat,Meat,0.9895
+5,8,Meat,Seafood,0.9985
+5,5,Meat,Meat,0.9888
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9999
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9995
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.7681
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9999
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.8863
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9963
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9756
+5,5,Meat,Meat,0.783
+5,5,Meat,Meat,0.9995
+5,5,Meat,Meat,0.9997
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9992
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9998
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.8248
+5,5,Meat,Meat,0.9997
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9942
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9991
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9989
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9999
+5,5,Meat,Meat,0.9999
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9918
+5,5,Meat,Meat,0.944
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9993
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9999
+5,5,Meat,Meat,0.6846
+5,5,Meat,Meat,0.9997
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9997
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9999
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.988
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9922
+5,5,Meat,Meat,0.9999
+5,5,Meat,Meat,0.9993
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9366
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9998
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.998
+5,5,Meat,Meat,0.9996
+5,5,Meat,Meat,0.9995
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9977
+5,5,Meat,Meat,0.9992
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9993
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9998
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9998
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9834
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9994
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9999
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9999
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9999
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9999
+5,5,Meat,Meat,0.9998
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9998
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.999
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9999
+5,5,Meat,Meat,0.9995
+5,5,Meat,Meat,0.9986
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9575
+5,5,Meat,Meat,1.0
+5,4,Meat,Fried food,0.8785
+5,5,Meat,Meat,0.9999
+5,5,Meat,Meat,0.9999
+5,5,Meat,Meat,0.9999
+5,5,Meat,Meat,0.9945
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9994
+5,5,Meat,Meat,0.9997
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9994
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.993
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9894
+5,5,Meat,Meat,0.9996
+5,5,Meat,Meat,0.9982
+5,5,Meat,Meat,0.9999
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.7152
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9976
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9999
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9899
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9502
+5,5,Meat,Meat,0.9968
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9998
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9999
+5,5,Meat,Meat,0.4739
+5,5,Meat,Meat,0.9836
+5,5,Meat,Meat,0.9946
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9994
+5,5,Meat,Meat,0.9832
+5,5,Meat,Meat,1.0
+5,2,Meat,Dessert,0.9998
+5,0,Meat,Bread,0.867
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9999
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9976
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9995
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9998
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9997
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9988
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9979
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9989
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9995
+5,8,Meat,Seafood,0.6708
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.986
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9999
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9998
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9997
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9999
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9999
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.849
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9951
+5,5,Meat,Meat,0.9999
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.998
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9998
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9957
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,1.0
+5,5,Meat,Meat,0.9982
+5,5,Meat,Meat,0.9997
+5,5,Meat,Meat,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,0.9997
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,0.9991
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,0.9918
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,0.9981
+6,6,Noodles-Pasta,Noodles-Pasta,0.8381
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,0.9985
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,0.9999
+6,6,Noodles-Pasta,Noodles-Pasta,0.9994
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,0.9999
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,0.9999
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,0.9999
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,0.9992
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,0.9999
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,0.9999
+6,6,Noodles-Pasta,Noodles-Pasta,0.9652
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,9,Noodles-Pasta,Soup,0.9388
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,0.9999
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,0.994
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,0.9998
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,9,Noodles-Pasta,Soup,0.9203
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,0.7055
+6,6,Noodles-Pasta,Noodles-Pasta,0.9943
+6,6,Noodles-Pasta,Noodles-Pasta,0.9997
+6,6,Noodles-Pasta,Noodles-Pasta,0.9989
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,0.9992
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,0.9947
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,0.9996
+6,6,Noodles-Pasta,Noodles-Pasta,0.9999
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,0.999
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,0.9999
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,0.9999
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,0.9999
+6,6,Noodles-Pasta,Noodles-Pasta,0.9994
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,0.9996
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,0.9988
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,9,Noodles-Pasta,Soup,0.9727
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,0.9996
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,0.9977
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,0.9999
+6,6,Noodles-Pasta,Noodles-Pasta,0.9999
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,0.9994
+6,6,Noodles-Pasta,Noodles-Pasta,0.9995
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,0.9999
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,0.9995
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,0.9999
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,0.9997
+6,6,Noodles-Pasta,Noodles-Pasta,0.9994
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+6,6,Noodles-Pasta,Noodles-Pasta,0.9999
+6,6,Noodles-Pasta,Noodles-Pasta,1.0
+7,2,Rice,Dessert,0.9467
+7,7,Rice,Rice,0.9999
+7,7,Rice,Rice,1.0
+7,7,Rice,Rice,0.9997
+7,7,Rice,Rice,0.9998
+7,7,Rice,Rice,1.0
+7,7,Rice,Rice,0.9966
+7,7,Rice,Rice,1.0
+7,7,Rice,Rice,1.0
+7,7,Rice,Rice,1.0
+7,7,Rice,Rice,0.6099
+7,7,Rice,Rice,1.0
+7,7,Rice,Rice,1.0
+7,7,Rice,Rice,1.0
+7,7,Rice,Rice,0.9997
+7,7,Rice,Rice,0.9997
+7,7,Rice,Rice,0.9999
+7,7,Rice,Rice,0.9999
+7,7,Rice,Rice,1.0
+7,2,Rice,Dessert,0.6429
+7,7,Rice,Rice,0.9988
+7,7,Rice,Rice,1.0
+7,7,Rice,Rice,0.9985
+7,7,Rice,Rice,0.98
+7,7,Rice,Rice,0.9879
+7,7,Rice,Rice,0.9998
+7,7,Rice,Rice,1.0
+7,7,Rice,Rice,1.0
+7,7,Rice,Rice,0.5712
+7,7,Rice,Rice,1.0
+7,7,Rice,Rice,1.0
+7,7,Rice,Rice,1.0
+7,7,Rice,Rice,0.7871
+7,7,Rice,Rice,1.0
+7,7,Rice,Rice,0.9998
+7,7,Rice,Rice,1.0
+7,2,Rice,Dessert,0.9324
+7,7,Rice,Rice,0.9999
+7,7,Rice,Rice,1.0
+7,2,Rice,Dessert,0.7023
+7,7,Rice,Rice,0.9944
+7,7,Rice,Rice,0.9973
+7,7,Rice,Rice,1.0
+7,7,Rice,Rice,1.0
+7,7,Rice,Rice,1.0
+7,7,Rice,Rice,0.9955
+7,7,Rice,Rice,0.9994
+7,7,Rice,Rice,0.9996
+7,7,Rice,Rice,0.9947
+7,7,Rice,Rice,1.0
+7,7,Rice,Rice,0.9987
+7,7,Rice,Rice,1.0
+7,7,Rice,Rice,1.0
+7,7,Rice,Rice,0.8613
+7,7,Rice,Rice,0.8718
+7,7,Rice,Rice,0.9999
+7,7,Rice,Rice,1.0
+7,7,Rice,Rice,0.9986
+7,7,Rice,Rice,1.0
+7,7,Rice,Rice,0.9839
+7,7,Rice,Rice,0.7457
+7,7,Rice,Rice,1.0
+7,7,Rice,Rice,1.0
+7,7,Rice,Rice,1.0
+7,7,Rice,Rice,1.0
+7,7,Rice,Rice,1.0
+7,7,Rice,Rice,0.9999
+7,7,Rice,Rice,0.9999
+7,7,Rice,Rice,0.9992
+7,7,Rice,Rice,1.0
+7,7,Rice,Rice,1.0
+7,7,Rice,Rice,1.0
+7,7,Rice,Rice,1.0
+7,7,Rice,Rice,1.0
+7,7,Rice,Rice,1.0
+7,7,Rice,Rice,0.9856
+7,7,Rice,Rice,0.9989
+7,7,Rice,Rice,0.9316
+7,7,Rice,Rice,1.0
+7,7,Rice,Rice,0.9991
+7,7,Rice,Rice,0.9992
+7,7,Rice,Rice,0.9798
+7,7,Rice,Rice,1.0
+7,7,Rice,Rice,0.9998
+7,7,Rice,Rice,0.9993
+7,7,Rice,Rice,0.8503
+7,7,Rice,Rice,0.9998
+7,7,Rice,Rice,1.0
+7,7,Rice,Rice,0.9998
+7,7,Rice,Rice,0.9966
+7,7,Rice,Rice,0.9995
+7,2,Rice,Dessert,0.8179
+7,7,Rice,Rice,0.9999
+7,7,Rice,Rice,0.9994
+7,7,Rice,Rice,1.0
+7,7,Rice,Rice,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,0.9999
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,0.9992
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,0.9982
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,0.9926
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,0,Seafood,Bread,0.937
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,0.9993
+8,8,Seafood,Seafood,0.9991
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,0.7974
+8,8,Seafood,Seafood,0.9998
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,0.9999
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,0.9968
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,0.9992
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,0.9996
+8,8,Seafood,Seafood,0.9999
+8,8,Seafood,Seafood,0.9999
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,1,Seafood,Dairy product,0.703
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,2,Seafood,Dessert,0.4727
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,0.9999
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,0.7036
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,0.9986
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,0.9833
+8,8,Seafood,Seafood,0.9991
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,0.9999
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,0.9651
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,0.9999
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,0.9348
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,0.9919
+8,1,Seafood,Dairy product,0.8737
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,2,Seafood,Dessert,0.8011
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,0.9998
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,0.9996
+8,8,Seafood,Seafood,0.9583
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,0.9999
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,0.9999
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,5,Seafood,Meat,0.9796
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,0.5947
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,0.4634
+8,2,Seafood,Dessert,0.7922
+8,8,Seafood,Seafood,1.0
+8,5,Seafood,Meat,0.961
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,0.7036
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,0.9999
+8,8,Seafood,Seafood,0.9999
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,0.9996
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,0.9878
+8,2,Seafood,Dessert,0.6145
+8,0,Seafood,Bread,0.9641
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,0.9996
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,0.9992
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,0.9999
+8,10,Seafood,Vegetable-Fruit,0.5544
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,0.9997
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,0.9966
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,0.9998
+8,8,Seafood,Seafood,1.0
+8,2,Seafood,Dessert,0.5238
+8,8,Seafood,Seafood,0.9994
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,0.9999
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,0.9795
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,0.989
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,0.9987
+8,8,Seafood,Seafood,0.9999
+8,8,Seafood,Seafood,0.9999
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,0.4997
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,0.9972
+8,7,Seafood,Rice,0.675
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,0.998
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,0.9589
+8,8,Seafood,Seafood,1.0
+8,1,Seafood,Dairy product,0.5778
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,0.9999
+8,2,Seafood,Dessert,0.834
+8,8,Seafood,Seafood,0.9994
+8,8,Seafood,Seafood,0.8932
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,4,Seafood,Fried food,0.969
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,0.9999
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,0.9999
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,0.9917
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,0.9998
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,0.9999
+8,8,Seafood,Seafood,1.0
+8,8,Seafood,Seafood,1.0
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,0.999
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,0.9998
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,0.9992
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9986
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9995
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9995
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.996
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9965
+9,9,Soup,Soup,0.9968
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.997
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,0.9998
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9998
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,0.9995
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9997
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,0.9926
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9905
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,0.9997
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9751
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9994
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.5327
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9977
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9982
+9,9,Soup,Soup,0.9998
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9996
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9998
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.6833
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9998
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,0.9998
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,0.9998
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9992
+9,9,Soup,Soup,0.9998
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9995
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9996
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9993
+9,9,Soup,Soup,0.9996
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.8125
+9,9,Soup,Soup,0.9998
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9983
+9,9,Soup,Soup,0.9969
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9985
+9,9,Soup,Soup,0.9996
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9998
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9988
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,0.9997
+9,9,Soup,Soup,0.9998
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9986
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9993
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9996
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9943
+9,9,Soup,Soup,0.9998
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9998
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,0.9742
+9,9,Soup,Soup,0.9997
+9,2,Soup,Dessert,0.9896
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,0.9998
+9,9,Soup,Soup,0.9997
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9995
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,0.9525
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9998
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,0.9765
+9,8,Soup,Seafood,0.9994
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,0.994
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9997
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9356
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9977
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9995
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9908
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9282
+9,9,Soup,Soup,0.9901
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9993
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9993
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9995
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9983
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9996
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,0.9998
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9981
+9,9,Soup,Soup,0.9998
+9,9,Soup,Soup,0.9998
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9995
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9981
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,4,Soup,Fried food,0.9237
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,0.9996
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9988
+9,9,Soup,Soup,0.9807
+9,9,Soup,Soup,0.9995
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9977
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9999
+9,9,Soup,Soup,1.0
+9,9,Soup,Soup,0.9991
+9,9,Soup,Soup,0.9994
+9,9,Soup,Soup,0.8744
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,0.9936
+10,10,Vegetable-Fruit,Vegetable-Fruit,0.9997
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,0.995
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,2,Vegetable-Fruit,Dessert,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,0.9999
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,0.9241
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,0.9979
+10,10,Vegetable-Fruit,Vegetable-Fruit,0.9887
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,0.9992
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,0.6589
+10,10,Vegetable-Fruit,Vegetable-Fruit,0.9992
+10,10,Vegetable-Fruit,Vegetable-Fruit,0.9979
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,0.9997
+10,10,Vegetable-Fruit,Vegetable-Fruit,0.9996
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,0.9968
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,0.9998
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,0.9998
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,0.997
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,0.9999
+10,10,Vegetable-Fruit,Vegetable-Fruit,0.997
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,0.9681
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,0.9993
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,0.998
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,0.9999
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,2,Vegetable-Fruit,Dessert,0.9308
+10,10,Vegetable-Fruit,Vegetable-Fruit,0.7372
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,0.9999
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,0.9998
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,0.7271
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,0.8609
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,0.9999
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,0,Vegetable-Fruit,Bread,0.6375
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,0.9985
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,0.9999
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,0.9985
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,0.9993
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,8,Vegetable-Fruit,Seafood,0.4192
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,0.9942
+10,10,Vegetable-Fruit,Vegetable-Fruit,0.9998
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,0.9648
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,0.9999
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0
+10,10,Vegetable-Fruit,Vegetable-Fruit,1.0

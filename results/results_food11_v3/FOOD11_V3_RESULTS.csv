@@ -1,0 +1,4 @@
+condition,top1,f1,kappa,coarse_acc
+EfficientNet-B0 Food-11,93.49,93.98,0.9269,93.31
+ViT-B/16 Food-11,95.07,95.27,0.9447,95.31
+CoAtNet-0 Food-11,95.28,95.64,0.947,95.73

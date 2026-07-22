@@ -1,0 +1,4 @@
+filename,true_label,pred_label,confidence
+1_301.jpg,1,0,0.9601
+1_293.jpg,1,0,0.9047
+1_472.jpg,1,0,0.8723

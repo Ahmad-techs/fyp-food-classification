@@ -1,0 +1,12 @@
+class,recall_pct,n_samples
+Egg,88.06,335
+Dairy product,91.89,148
+Fried food,93.73,287
+Bread,93.75,368
+Dessert,94.4,500
+Seafood,94.72,303
+Rice,94.79,96
+Meat,96.99,432
+Noodles-Pasta,97.96,147
+Vegetable-Fruit,98.27,231
+Soup,99.4,500
