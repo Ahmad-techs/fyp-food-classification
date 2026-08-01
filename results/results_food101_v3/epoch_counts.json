@@ -1,0 +1,5 @@
+{
+    "EfficientNet-B0": 25,
+    "ViT-B/16": 18,
+    "CoAtNet-0": 20
+}

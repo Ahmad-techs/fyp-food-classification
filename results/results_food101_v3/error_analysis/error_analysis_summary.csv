@@ -1,0 +1,4 @@
+model,total_samples,misclassified,error_rate_pct
+EfficientNet-B0,12625,2209,17.5
+ViT-B/16,12625,1971,15.61
+CoAtNet-0,12625,1766,13.99
